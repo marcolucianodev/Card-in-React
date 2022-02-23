@@ -1,14 +1,32 @@
 Meu primeiro projeto de estudo em ReactJS
 
-## Vídeo demonstração
-[![Vídeo Demonstração](https://github.com/marcolucianodev/Card-in-React/blob/master/src/assets/Card_in_React.png)](https://www.linkedin.com/posts/marcolucianodev_frontend-frontenddeveloper-react-activity-6882484809088696320-CGNL)
+## Aplicação Online
+[![Aplicação Online](https://github.com/marcolucianodev/Card-in-React/blob/master/src/assets/Card_in_React.png)](https://silly-pike-2f1a28.netlify.app/)
 
-## Iniciando a execução:
+Meu primeiro projeto de estudo em ReactJS. Um App de Card com react e styled components.
+
+### 🎲 Rodando a aplicação
 
 ```bash
-npm run dev
+# Clone este repositório
+$ git clone https://github.com/marcolucianodev/card-in-react
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd card-in-react
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm run dev
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-## Frameworks & Bibliotecas:
+### 🛠 Tecnologias
 
-- [React.js](https://reactjs.org) - uma biblioteca JavaScript para a criação de interfaces de usuário
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [Style-Components](https://styled-components.com/)
+
