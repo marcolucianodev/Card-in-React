@@ -1,9 +1,9 @@
-Meu primeiro projeto de estudo em ReactJS
-
-## Aplicação Online
-[![Aplicação Online](https://github.com/marcolucianodev/Card-in-React/blob/master/src/assets/Card_in_React.png)](https://silly-pike-2f1a28.netlify.app/)
+## Card In React
+[![Aplicação Online](https://github.com/marcolucianodev/Card-in-React/blob/master/src/assets/Card_in_React.png)](https://card-in-react.netlify.app/)
 
 Meu primeiro projeto de estudo em ReactJS. Um App de Card com react e styled components.
+
+[Link do Projeto Online](https://card-in-react.netlify.app/)
 
 ### 🎲 Rodando a aplicação
 
